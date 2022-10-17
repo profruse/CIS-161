@@ -2,6 +2,7 @@
 
 int main() 
 {
-    std::cout << "Hello, World!"
+    // fixed line belowg
+    std::cout << "Hello, World!";
     return 0;
 }
