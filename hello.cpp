@@ -18,5 +18,6 @@ int main(void) {
 	cin >> c;
 	cout << "The cube of " << c << " is " << cube(c) << endl;
     return 0;
+	cout << "Hello World!";
 }
 
